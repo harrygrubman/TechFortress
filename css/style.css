@@ -1,4 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300|Hind:500);
+
 * {
   background-color: black;
   color: white;
+}
+
+.prompt {
+  font-family: 'Hind', sans-serif;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 20px;
+}
+
+.choice{
+  font-family: 'Open Sans', sans-serif;
+  margin-left: 20%;
+  margin-right: 20%;
 }
